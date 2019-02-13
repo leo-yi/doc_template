@@ -1,12 +1,17 @@
 ## 说明
-这是一个 docsify 驱动的文档模版
+这是一个 docsify 驱动的文档模版。
+
+演示：[https://show.oyifan.com/docsify](https://show.oyifan.com/docsify)
 
 ## 使用方法
 
 1. 安装 docsify
     
-    自行到官网查看
-    [docsify.js.org](https://docsify.js.org/#/zh-cn/)
+    ``` sh
+    npm i docsify-cli -g
+    ```
+    
+    官网：[docsify.js.org](https://docsify.js.org/#/zh-cn/)
 
 2. 克隆项目
 
